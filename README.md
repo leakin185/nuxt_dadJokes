@@ -1,4 +1,4 @@
-# dadjokes
+# an application that holds dad jokes
 
 ## Build Setup
 
